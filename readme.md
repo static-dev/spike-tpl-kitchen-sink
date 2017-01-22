@@ -1,5 +1,7 @@
 # spike-tpl-kitchen-sink
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/static-dev/spike-tpl-kitchen-sink.svg)](https://greenkeeper.io/)
+
 an example project project showing off the functionality of spike templates
 
 ### Installation
